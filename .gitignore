@@ -1,5 +1,10 @@
+# project file
+.idea
+sakhi.iml
+
 # Compiled class file
 *.class
+target/*
 
 # Log file
 *.log
