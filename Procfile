@@ -1,0 +1,1 @@
+web: mvn package spring-boot:repackage && java $JAVA_OPTS -jar target/sakhi.war
